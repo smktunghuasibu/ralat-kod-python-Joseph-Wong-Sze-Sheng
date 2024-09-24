@@ -18,3 +18,4 @@ def main_calculation():
 # JANGAN ubah kod di bawah baris ini!
 if __name__ == "__main__":
     main_calculation()
+ 
